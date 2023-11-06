@@ -1,5 +1,5 @@
 # Pet class holds data about pet information.
-class Pet
+class Pet:
     # The __init__ method initializes the attributes.
     def __init__(self, name, animal_type, age):
         self.__name = name
